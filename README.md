@@ -6,7 +6,6 @@ Long range wireless IoT 2 Channel Analog To Digital Converter can be found over 
 
 https://ncd.io/long-range-iot-wireless-analog-to-digital-converter-getting-started/ Labview Driver for ncd.io wireless 2 Channel Analog To Digital Converter
 
-this Labview software will work with ncd.io wireless Thermocouple sesnor only
 
 To use this Labview Utility You will need a Wireless to USB router, whihc can be found over here https://store.ncd.io/product/900hp-s3b-long-range-wireless-mesh-modem-with-usb-interface/
 
